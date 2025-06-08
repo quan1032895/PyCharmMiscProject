@@ -125,3 +125,4 @@ ELSE IF E_score < max_score_E * 0.4 AND N_score > max_score_N * 0.7 THEN
 ELSE
     PRINT "Your personality has a unique balance of traits that make you who you are."
 END IF
+
